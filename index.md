@@ -1,6 +1,5 @@
 ---
-title: Personal Blog
+title: ✨ Laura's ideas ✨
 ---
 
-List of the current articles:
-- ...
+Documenting hobby projects and sharing interests in a blog post format.

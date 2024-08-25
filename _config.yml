@@ -8,7 +8,6 @@ baseurl: 'blog/'
 title: Personal Blog
 author:
   name: lauraporta
-  email: porta.laura@proton.me
 
 description: >
   A blog about my ideas and thoughts on technology, art and more.

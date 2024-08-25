@@ -15,3 +15,6 @@ description: >
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+social_links:
+  github: lauraporta

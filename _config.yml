@@ -1,3 +1,18 @@
 theme: minima
+minima:
+  skin: solarized
+
 url: 'https://lauraporta.github.io/' 
 baseurl: 'blog/' 
+
+title: ✨ Laura's ideas ✨
+author:
+  name: lauraporta
+  email: porta.laura@proton.me
+
+description: >
+  A blog about my ideas and thoughts on technology, art and more.
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

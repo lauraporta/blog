@@ -1,6 +1,8 @@
 theme: minima
 minima:
   skin: solarized
+  social_links:
+    - { platform: github, user_url: "https://github.com/lauraporta" }
 
 url: 'https://lauraporta.github.io/' 
 baseurl: 'blog/' 
@@ -16,5 +18,3 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-social_links:
-  github: lauraporta
